@@ -1,5 +1,5 @@
 # metaswitch-tollfree-tool
-Toll Free Creation tool
+Python Toll Free Creation tool using MetaView Web API.
 
 This tool pulls existing Confing data for Ring to target, and creates a subscriber line (Toll free) and call forwards the subscriber line to Ring To target.
 
