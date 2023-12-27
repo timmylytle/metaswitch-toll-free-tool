@@ -1,7 +1,7 @@
 # metaswitch-tollfree-tool
 Python Toll Free Creation tool using MetaView Web API.
 
-This tool pulls existing Confing data for Ring to target, and creates a subscriber line (Toll free) and call forwards the subscriber line to Ring To target.
+This tool pulls existing config data for Ring to target, and creates a subscriber line (Toll free) and call forwards the subscriber line to Ring To target.
 
 This was created because original Call translation was handled off switch by Toll Free provider, The syntax is for a very specific switch, this should be reviewed heavily if used again.
 
